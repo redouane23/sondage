@@ -85,9 +85,8 @@
 </footer><!--end of footer-->
 
 <!--jquery-->
-{{--<script src="{{ asset('dist/js/jquery-3.4.0.min.js') }}"></script>--}}
+<script src="{{ asset('dist/js/jquery-3.4.0.min.js') }}"></script>
 
-<script src="{{ asset('dashboard_files/js/jquery-3.3.1.min.js') }}"></script>
 
 <!--bootstrap-->
 <script src="{{ asset('dist/js/bootstrap.min.js') }}"></script>
