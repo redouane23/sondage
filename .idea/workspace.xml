@@ -3,7 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="369d9537-99e1-438e-9743-1714ff3d60f2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/database.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/uploads/sondage_images/2Y4EcgBm7mZon757HMEMM4prdomafvSulXTt75HN.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/uploads/sondage_images/BCUiBy9nJ1eh8GtuMRXNg48yYGuLxbQFVND0iho5.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/uploads/sondage_images/ddVTee6SqDFmo0AyBl7YVmPmBk9v3pRt9bHzG2GT.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/uploads/sondage_images/mQUQgmfjJPSyOZNTzPAcMEbFpdRWJu7SMD1XZgGb.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,7 +173,7 @@
       <workItem from="1593796222588" duration="3569000" />
       <workItem from="1593892138004" duration="14998000" />
       <workItem from="1594043248242" duration="8629000" />
-      <workItem from="1594120251823" duration="1341000" />
+      <workItem from="1594120251823" duration="2061000" />
     </task>
     <servers />
   </component>
