@@ -190,7 +190,7 @@
 @endsection
 
 @section('script')
-    <script src='https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.1.4/Chart.bundle.min.js'></script>
+
     <script>
         $(document).ready(function () {
             var ctx = $("#chart-line");
