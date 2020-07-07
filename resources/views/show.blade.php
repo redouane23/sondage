@@ -190,9 +190,7 @@
 @endsection
 
 @section('script')
-    <!--jquery-->
-    <script src="{{ asset('dist/js/jquery-3.4.0.min.js') }}"></script>
-
+    
     <script>
         $(document).ready(function () {
             var ctx = $("#chart-line");

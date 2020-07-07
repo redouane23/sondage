@@ -120,6 +120,8 @@
     });
 </script>
 
+@yield('script')
+
 {{--custom js--}}
 <script src="{{ asset('dist/js/custom/updated.js') }}"></script>
 
