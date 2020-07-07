@@ -49,7 +49,7 @@
                                 <div class="form-group">
 
                                     <label>Description</label>
-                                    <textarea name="description"
+                                    <textarea name="description" rows="10"
                                               class="form-control ckeditor"></textarea>
 
                                 </div>

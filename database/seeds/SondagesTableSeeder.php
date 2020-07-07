@@ -12,8 +12,8 @@ class SondagesTableSeeder extends Seeder
     public function run()
     {
         $sondage = \App\Sondage::create([
-            'title' => 'corona',
-            'description' => 'corona desc',
+            'title' => 'Titre de Sondage',
+            'description' => 'Description de sondage',
             'question' => 'votre question '
         ]);
 

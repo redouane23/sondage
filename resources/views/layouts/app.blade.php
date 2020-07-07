@@ -33,9 +33,12 @@
             <a class="navbar-brand text-primary" href="{{ route('home') }}">Sond<span
                     class="text-primary font-weight-bold">age</span></a>
 
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+            <button class="navbar-toggler" type="button" data-toggle="collapse"
+                    data-target="#navbarSupportedContent"
                     aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
+                <span class="navbar-toggler-icon">
+                    <i class="fas fa-bars" style="color:#5bc0de; font-size:28px;"></i>
+                </span>
             </button>
 
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
